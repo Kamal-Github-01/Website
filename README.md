@@ -1,3 +1,2 @@
-# Application for AWS DevOps
-
+# Sample Website
 #updated this file
